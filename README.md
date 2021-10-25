@@ -3,9 +3,9 @@ My name is Farda and I'm Front-End Web developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarimovFarda](https://github.com/KarimovFarda)
 
-- 📫 How to reach me **ferdakerim@gmail.com**
+- 📫 How to reach me : **ferdakerim@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/farda-karimov-8a00a9183/](https://www.linkedin.com/in/farda-karimov-8a00a9183/)
+- 📄 Know about my experiences : [https://www.linkedin.com/in/farda-karimov-8a00a9183/](https://www.linkedin.com/in/farda-karimov-8a00a9183/)
 
 ![ViewCount](https://komarev.com/ghpvc/?username=KarimovFarda&color=1A4730)
 
