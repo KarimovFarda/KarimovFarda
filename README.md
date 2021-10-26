@@ -5,8 +5,9 @@ My name is Farda and I'm Front-End Web developer.
 
 - 📄 Know about my experiences : [https://www.linkedin.com/in/farda-karimov-8a00a9183/](https://www.linkedin.com/in/farda-karimov-8a00a9183/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham" alt="info">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Statistics" alt="langs">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham" alt="karimovfarda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Statistics" alt="karimovfarda" /></p>
+
 
 ![ViewCount](https://komarev.com/ghpvc/?username=KarimovFarda&color=1A4730)
 <h3 align="left">Languages and Tools:</h3>
