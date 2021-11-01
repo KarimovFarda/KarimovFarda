@@ -3,8 +3,6 @@ My name is Farda and I'm Front-End Web developer.
 
 - 📫 How to reach me : **ferdakerim@gmail.com**
 
-- 📄 Know about my experiences : [https://www.linkedin.com/in/farda-karimov-8a00a9183/](https://www.linkedin.com/in/farda-karimov-8a00a9183/)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Statistics" alt="sooleymanli" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham" alt="sooleymanli" width="50%" /></p><br />
 
