@@ -7,8 +7,6 @@ My name is Farda and I'm Front-End Web developer.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham"width="50%" /></p><br />
 
 
-
-![ViewCount](https://komarev.com/ghpvc/?username=KarimovFarda&color=1A4730)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <span>&nbsp</span>
