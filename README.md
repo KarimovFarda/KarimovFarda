@@ -3,8 +3,8 @@ My name is Farda and I'm Front-End Web developer.
 
 - 📫 How to reach me : **ferdakerim@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=merko&custom_title=Statistics" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=merko" width="50%" /></p><br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=dark&custom_title=Statistics" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=dark" width="50%" /></p><br />
 
 
 <h3 align="left">Languages and Tools:</h3>
