@@ -65,7 +65,5 @@ My name is Farda and I'm Front-End Web developer.
     <a href="https://medium.com/@ferdakerim" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@ferdakerim" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/fardask" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="fardask" height="30" width="40" /></a>
+
 </p>
