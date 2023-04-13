@@ -50,6 +50,8 @@ My name is Farda and I'm Front-End Web developer.
             alt="figma" width="40" height="40" /> </a> <span>&nbsp</span>
     <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+   <a href="https://git-scm.com/" target="_blank"> <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="git" width="40" height="40" /> </a>
     <span>&nbsp</span>
 </p>
 
