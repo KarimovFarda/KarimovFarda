@@ -19,8 +19,8 @@ My name is Farda and I'm Front-End Web developer.
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
             alt="css3" width="40" height="40" /> </a> <span>&nbsp</span>
-    <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svgg"
+    <a href="https://tailwindcss.com/" target="_blank"> <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
             alt="tailwind" width="40" height="40" /> </a> <span>&nbsp</span>
     <a href="https://sass-lang.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
