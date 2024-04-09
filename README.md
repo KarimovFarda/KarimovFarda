@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Farda and I'm Front-End Web developer.
+My name is Farda Karimov and I'm Software developer.
 
-- 📫 How to reach me : **ferdakerim@gmail.com**
+- 📫 How to reach me: **ferdakerim@gmail.com**
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Statistics&langs_count=6" />
