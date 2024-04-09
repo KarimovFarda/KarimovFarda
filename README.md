@@ -69,7 +69,7 @@ My name is Farda and I'm Front-End Web developer.
     <a href="https://stackoverflow.com/users/14307167/karimovfarda" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="14307167/karimovfarda" height="30" width="40" /></a>
-    <a href="https://medium.com/@ferdakerim" target="blank"><img align="center"
+    <a href="https://medium.com/@fardakarimov" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@ferdakerim" height="30" width="40" /></a>
 
