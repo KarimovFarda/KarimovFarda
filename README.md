@@ -12,8 +12,7 @@ My name is Farda Karimov and I'm a Software Developer.
 </div>
 
 <div>
-  <img align="left" src="
-https://github-readme-streak-stats.herokuapp.com/?user=KarimovFarda&theme=gotham&hide_border=false" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KarimovFarda&theme=gotham&hide_border=false" />
 </div>
 
 <h3>Languages and Tools:</h3>
