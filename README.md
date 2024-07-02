@@ -11,6 +11,11 @@ My name is Farda Karimov and I'm a Software Developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham" width="50%" />
 </div>
 
+<div>
+  <img align="left" src="
+https://github-readme-streak-stats.herokuapp.com/?user=KarimovFarda&theme=gotham&hide_border=false" />
+</div>
+
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40" /></a>&nbsp;
