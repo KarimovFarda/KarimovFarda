@@ -8,7 +8,7 @@ I'm **Farda Karimov**, a Software Developer.
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham" width="49%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Top Languages&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Statistics&langs_count=8)" width="49%" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Statistics&langs_count=8" width="49%"/>
 </div>
 
 <div align="left">
