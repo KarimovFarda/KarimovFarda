@@ -7,7 +7,7 @@ I'm **Farda Karimov**, a Software Developer.
 ---
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: justify-between; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=KarimovFarda&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham" style="max-width: 49%;" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimovFarda&layout=compact&theme=gotham&custom_title=Statistics&langs_count=8"style="max-width: 49%;" />
 </div>
@@ -22,7 +22,7 @@ I'm **Farda Karimov**, a Software Developer.
 
 ### Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40" height="40" /></a>
@@ -44,7 +44,7 @@ I'm **Farda Karimov**, a Software Developer.
 
 ### Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/farda-karimov-8a00a9183/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/14307167/karimovfarda" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://medium.com/@fardakarimov" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
